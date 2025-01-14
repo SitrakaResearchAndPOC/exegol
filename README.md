@@ -94,6 +94,8 @@ ls asciinema xxx.asciinema
 ```
 ```
 sudo ls /root/.exegol/workspaces/demo2/logs
+```
+
 * demos 4 : 
 ```
 exegol install nightly
